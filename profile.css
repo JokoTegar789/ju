@@ -6,8 +6,8 @@
 }
 
 .container{
-    width: 100%;
-    height: 100vh;
+    width: auto;
+    height: 100px;
     background-image: url(images/purple-bg.webp);
     background-size: cover;
     background-position: center;
